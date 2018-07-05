@@ -17,6 +17,7 @@ public class App
          */
 //        System.out.println("myObject: " + myObject.toString());
         // more comments
+        // 2nd comments
         /**
          * ... which is simply fantastic. It shows:
          *
