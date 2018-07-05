@@ -16,6 +16,7 @@ public class App
          * Checker prevents this from compiling...
          */
 //        System.out.println("myObject: " + myObject.toString());
+// Added comments
         /**
          * ... which is simply fantastic. It shows:
          *
