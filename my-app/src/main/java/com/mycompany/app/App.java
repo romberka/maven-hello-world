@@ -18,6 +18,8 @@ public class App
 //        System.out.println("myObject: " + myObject.toString());
         // more comments
         // 2nd comments
+        // 3rd comments
+        // 4th comments
         /**
          * ... which is simply fantastic. It shows:
          *
