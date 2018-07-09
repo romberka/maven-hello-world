@@ -22,6 +22,7 @@ public class App
         // 4th comments
         // 5th comments
         // 6th comments
+        // 7th comments
         /**
          * ... which is simply fantastic. It shows:
          *
