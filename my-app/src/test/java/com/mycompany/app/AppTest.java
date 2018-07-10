@@ -4,6 +4,7 @@ import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
+// Test comments 1
 /**
  * Unit test for simple App.
  */
